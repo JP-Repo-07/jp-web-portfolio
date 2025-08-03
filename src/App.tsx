@@ -3,6 +3,7 @@ import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
 import { Home } from "./pages/Home";
 import { Projects } from "./pages/Projects";
+import { Skills } from "./pages/Skills";
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <main className="w-full space-y-24">
         <Home />
         <About />
+        <Skills />
         <Projects />
         <Contact />
       </main>

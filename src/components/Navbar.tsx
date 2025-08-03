@@ -13,6 +13,7 @@ export const Navbar: React.FC = () => {
           <ul className="hidden md:flex space-x-6 text-gray-700 font-medium">
             <li><a href="#home" className="hover:text-blue-500 active:text-blue-600">Home</a></li>
             <li><a href="#about" className="hover:text-blue-500 active:text-blue-600">About</a></li>
+            <li><a href="#skills" className="hover:text-blue-500 active:text-blue-600">Skills</a></li>
             <li><a href="#projects" className="hover:text-blue-500 active:text-blue-600">Projects</a></li>
             <li><a href="#contact" className="hover:text-blue-500 active:text-blue-600">Contact</a></li>
           </ul>
@@ -28,6 +29,7 @@ export const Navbar: React.FC = () => {
             ${isOpen ? 'translate-y-0 opacity-100 visible' : '-translate-y-6 opacity-0 invisible'}`}>
             <a href="#home" onClick={() => setIsOpen(false)} className="text-black hover:text-blue-500 active:text-blue-600">Home</a>
             <a href="#about" onClick={() => setIsOpen(false)} className="text-black hover:text-blue-500 active:text-blue-600">About</a>
+            <a href="#skills" onClick={() => setIsOpen(false)} className="text-black hover:text-blue-500 active:text-blue-600">About</a>
             <a href="#projects" onClick={() => setIsOpen(false)} className="text-black hover:text-blue-500 active:text-blue-600">Projects</a>
             <a href="#contact" onClick={() => setIsOpen(false)} className="text-black hover:text-blue-500 active:text-blue-600">Contact</a>
           </div>
