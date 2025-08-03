@@ -3,7 +3,6 @@ import {
   FaPhoneAlt,
   FaMapMarkerAlt,
   FaUserTie,
-  FaLaptopCode,
   FaGraduationCap,
   FaAward,
   FaMedal,
