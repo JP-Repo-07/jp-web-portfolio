@@ -1,5 +1,5 @@
 import { BackendCard } from "./BackendCard"
-import { FrontendCard } from "./FrontEndCard"
+import { FrontendCard } from "./FrontendCard"
 import { FullstackCard } from "./FullstackCard"
 
 export const WhatCanIDo = () => {
