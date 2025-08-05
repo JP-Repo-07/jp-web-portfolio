@@ -9,6 +9,5 @@ export const WhatCanIDo = () => {
             <BackendCard />
             <FullstackCard />
         </div>
-
-    )
-}
+    );
+};
