@@ -1,4 +1,6 @@
-export const Home = () => (
+export const Home = () => {
+
+  return (
   <section
     id="home"
     className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-[#F4F6F8] px-6 pt-20 md:pt-20"
@@ -29,4 +31,5 @@ export const Home = () => (
       </a>
     </div>
   </section>
-);
+  );
+};

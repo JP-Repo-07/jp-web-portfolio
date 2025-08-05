@@ -13,6 +13,7 @@ import {
 import { WhatCanIDo } from "../components/WhatCanIDo";
 
 export const About = () => {
+
   return (
     <section
       id="about"

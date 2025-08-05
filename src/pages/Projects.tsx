@@ -25,7 +25,7 @@ const projects: Project[] = [
     link: ""
   },
   {
-    title: "Hello Charlie",
+    title: "Incub8r (by Hello Charlie)",
     description: "A Web3 social media platform where users earn NFT certificates upon completing courses and milestones.",
     tech: ["React", "Axios", "Tailwind"],
     isLinked: false,
@@ -33,7 +33,7 @@ const projects: Project[] = [
   },
   {
     title: "GCash - GCrypto",
-    description: "A module within GCash for buying and managing NFT collections, offering a seamless experience for digital asset transactions.",
+    description: "A superseded module within GCash for buying and managing NFT collections, offering a seamless experience for digital asset transactions.",
     tech: ["Node.js", "TypeScript", "Azure Cosmos DB"],
     isLinked: false,
     link: ""
@@ -61,14 +61,14 @@ const projects: Project[] = [
   },
   {
     title: "Blackfe",
-    description: "Blogging system with post management.",
+    description: "A Web3 app where users can purchase Bronze, Silver, Gold, and Platinum NFTs linked to their wallet addresses. Built to support the mining and remittance industries, it leverages blockchain technology through a partnership with a $3.6B mining company, FORC.",
     tech: ["Node.js", "Typescript", "Azure Cosmos DB"],
     isLinked: false,
     link: ""
   },
   {
     title: "PalengGo",
-    description: "A front-end layout for a basic store.",
+    description: "An online ordering platform for web and mobile that streamlines the purchase of market food items, providing users with a fast and convenient shopping experience.",
     tech: ["Node.js", "TypeScript", "AWS Lambda"],
     isLinked: false,
     link: ""
@@ -87,13 +87,13 @@ const projects: Project[] = [
     isLinked: false,
     link: ""
   },
-  {
-    title: "Dmitri's Breakthrough",
-    description: "A front-end layout for a basic store.",
-    tech: ["Unity", "C#"],
-    isLinked: false,
-    link: ""
-  },
+  // {
+  //   title: "Dmitri's Breakthrough",
+  //   description: "A front-end layout for a basic store.",
+  //   tech: ["Unity", "C#"],
+  //   isLinked: false,
+  //   link: ""
+  // },
 ];
 
 const wordLimit = 35
