@@ -4,7 +4,7 @@ This is my personal web developer portfolio built with **React**, **TypeScript**
 It showcases my experience, skills, and selected projects, along with an integrated contact form powered by **Formspree**.
 
 ## 🌐 Live Site  
-[Visit Portfolio](https://your-deployed-link.com)
+[Visit Portfolio](https://jp-web-portfolio.vercel.app/)
 
 ## 🔧 Tech Stack
 - React + TypeScript + Vite 
